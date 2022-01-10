@@ -1,19 +1,13 @@
 {
-  "version": "0.0.3",
-  "name": "slot20",
+  "version": "0.0.5",
+  "name": "slotter",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^4.1.1",
-    "commander": "^8.0.0",
-    "ethers": "^5.4.1",
-    "ora": "^5.4.1"
+    "ethers": "^5.4.1"
   },
   "main": "slot20.js",
   "scripts": {
     "test": "echo NO TESTS HAHA"
-  },
-  "bin": {
-    "slot20": "./slot20.js"
   },
   "devDependencies": {
     "eslint": "^7.30.0"
